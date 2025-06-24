@@ -1,9 +1,9 @@
 # User-Feedback-System-Assignment
 
 # For Lia Plus the Software Development Role 
-=======
+
 # Lia Feedback Application
->>>>>>> Done
+---
 
 ## Overview
 This is a full-stack feedback application with a React frontend and a Node.js/Express/MongoDB backend. Users can submit feedback and view all feedbacks in a dashboard.
@@ -97,4 +97,4 @@ Project for Lia/
 See `ARCHITECTURE.md` for a brief on the architecture and flow. 
 =======
 See `ARCHITECTURE.md` for a brief on the architecture and flow. 
->>>>>>> Done
+---
