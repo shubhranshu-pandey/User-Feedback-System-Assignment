@@ -39,15 +39,13 @@ Project for Lia/
    ```
 3. Create a `.env` file in the `backend` directory with the following content:
    ```
-   MONGO_URI=mongodb://localhost:27017/your-db-name
+   MONGO_URI=mongodb://localhost:27017/Lia
    PORT=5050
    ```
-   Replace `your-db-name` with your desired MongoDB database name.
 4. Start MongoDB (if not already running):
    ```sh
    brew services start mongodb-community
-   # or
-   mongod
+   
    ```
 5. Start the backend server:
    ```sh
@@ -92,8 +90,5 @@ Project for Lia/
 ---
 
 ## 6. Architecture & Flow
-<<<<<<< HEAD
 See `ARCHITECTURE.md` for a brief on the architecture and flow. 
-=======
-See `ARCHITECTURE.md` for a brief on the architecture and flow. 
----
+
