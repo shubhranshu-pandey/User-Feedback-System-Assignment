@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # User-Feedback-System-Assignment
 
 # For Lia Plus the Software Development Role 
