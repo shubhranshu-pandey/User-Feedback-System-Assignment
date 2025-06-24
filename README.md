@@ -2,8 +2,6 @@
 # User-Feedback-System-Assignment
 
 # For Lia Plus the Software Development Role 
-
-# Lia Feedback Application
 ---
 
 ## Overview
