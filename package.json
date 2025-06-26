@@ -1,0 +1,12 @@
+{
+  "name": "user-feedback-system",
+  "version": "1.0.0",
+  "description": "Fullstack User Feedback System",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+} 
